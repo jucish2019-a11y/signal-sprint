@@ -1,0 +1,8 @@
+{
+  "name": "signal-sprint",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "@netlify/blobs": "^11.0.3"
+  }
+}
